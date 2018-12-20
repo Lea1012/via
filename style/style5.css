@@ -57,11 +57,12 @@ h2{
 
 .button {/* Rectangle 3 */
 
-position: absolute;
+/*position: absolute;*/
 width: 110px;
+margin: auto;
 height: 45px;
-left: 300px;
-top: 350px;
+/*left: 300px;
+top: 350px;*/
 
 background: #79D7D5;
 opacity: 0.9;
@@ -82,11 +83,12 @@ color: #FFFFFF;
 
 .button2 { 
 
-position: absolute;
+/*position: absolute;*/
 width: 110px;
+margin: auto;
 height: 45px;
-left: 500px;
-top: 350px;
+/*left: 500px;
+top: 350px;*/
 
 background: #79D7D5;
 opacity: 0.9;
@@ -104,11 +106,12 @@ color: #FFFFFF;
 }
 .button3 { 
 
-position: absolute;
+/*position: absolute;*/
 width: 110px;
+margin: auto;
 height: 45px;
-left: 300px;
-top: 460px;
+/*left: 300px;
+top: 460px;*/
 
 background: #79D7D5;
 opacity: 0.9;
@@ -133,11 +136,12 @@ color: white;
 }
 .button4 { 
 
-position: absolute;
+/*position: absolute;*/
 width: 110px;
+margin: auto;
 height: 45px;
-left: 500px;
-top: 460px;
+/*left: 500px;
+top: 460px;*/
 
 background: #79D7D5;
 opacity: 0.9;

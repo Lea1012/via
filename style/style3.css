@@ -1,0 +1,87 @@
+#barreNavigation{
+  width:414px;
+  background-color: #4EA6A4;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar-images{
+	height: 50px;
+}
+
+.container-mobile {
+  width: 414px;
+  background-color: #79D7D5;
+  text-align: center;
+  margin: auto;
+  height: 100vh;
+  padding: 0px 0px;
+}
+
+#barrenavigation > img {
+  width:100%;
+  margin: 0px;
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+
+  font-family: avenir
+
+ 
+}
+
+
+p {
+  color:white;
+}
+
+
+
+button { 
+  padding: 5px 35px;
+  margin: 8px;
+  font-family: avenir;
+  box-shadow: 2px;
+  border-radius: 6px;
+  font-size: 16px;
+  color:#BCBAB8;
+
+  
+} 
+
+.continuer{
+	font-family: avenir;
+	padding: 5px 50px;
+	font-size: 20px; 
+	margin: 110px;
+	color: white;
+	background-color: #4EA6A4;
+	border: 1px solid #4EA6A4;
+	border-radius: 10px;
+}
+
+
+.modifierprofile{
+    padding: 7px 91px;
+    font-size: 20px;
+    margin: 30px;
+    color:#4EA6A4;
+    border: 1px solid #4EA6A4;
+
+
+
+  }
+
+h3{
+  color:white;
+  font-family: "Avenir";
+}
+
+a {
+	text-decoration: none;
+}
+

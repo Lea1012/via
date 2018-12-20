@@ -1,0 +1,116 @@
+
+body {
+  margin: 0px;
+  background-color: black;
+  font-family:avenir;
+  background-color:black;
+}
+
+h1{
+	color:white;
+	font-weight: normal;
+	font-size:13px;
+	margin-bottom: 30px;
+}
+
+.container-mobile {
+  width: 414px;
+  background-color: #79D7D5;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  padding:0;
+}
+
+.container{
+	background-image: url("../image/banner.jpg");
+	height: 100vh;
+}
+
+#barreNavigation{
+	width:414px;
+	background-color: #4EA6A4;
+	margin-bottom: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.navbar-images{
+	height: 50px;
+}
+.menuDeroulant{
+	margin-bottom:15px;
+	margin: 20px auto;
+}
+.menuDeroulant ul {
+	list-style: none;
+	padding:0;
+}
+.menuDeroulant li{
+	border-bottom:1px solid #4EA6A4;
+	width:80%;
+	margin: 10px auto;
+}
+
+.menuDeroulant p {
+	background-color:white;
+	width:80%;
+	margin: auto;
+	border-radius:3px;
+}
+
+#budget{
+	background-color: white;
+	width:80%;
+	border-radius:3px;
+	margin: 40px auto;
+}
+
+#budget p {
+	display:inline;
+}
+
+.button {
+	background-color: #4EA6A4;
+	width: 100px;
+	height: 20px;
+	border-radius: 10px;
+	margin: 30px auto;
+	padding: 10px;
+}
+
+.button a {
+		text-decoration: none;
+		color:white;
+}
+
+
+.trait {
+	width: 100%;
+
+}
+.button-organiser {
+ 	background-color:white;
+	width:80%;
+	margin: auto;
+	margin-top: 200px;
+	margin-bottom: 100px;
+	border-radius:3px;
+	color:black;
+	height: 30px;
+}
+
+.button-activites {
+	background-color:white;
+	width:80%;
+	margin: auto;
+	border-radius:3px;
+	color:black;
+	height:30px ;
+}
+
+a {
+	text-decoration: none;
+}

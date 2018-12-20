@@ -1,0 +1,169 @@
+#barreNavigation{
+  width:414px;
+  background-color: #4EA6A4;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar-images{
+	height: 50px;
+}
+
+.container-mobile {
+  width: 414px;
+  background-color: #79D7D5;
+  text-align: center;
+  margin: auto;
+  height: 100vh;
+  padding: 0px 0px;
+  background-image: url("../image/banner5.jpg")
+}
+
+body {
+  margin: 0px;
+  background-color: black;
+  font-family: avenir
+}
+
+
+img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.tokyo {
+  width:150px ;
+  height:150px;
+}
+
+
+
+#barrenavigation>img {
+  width:100%;
+  margin: 0px;
+}
+
+
+
+p {
+  color:white;
+}
+
+h2{
+  color:white;
+}
+
+.button {/* Rectangle 3 */
+
+/*position: absolute;*/
+width: 110px;
+margin: auto;
+height: 45px;
+/*left: 300px;
+top: 350px;*/
+
+background: #79D7D5;
+opacity: 0.9;
+border-radius: 7px;
+
+font-family: Gotham;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 18px;
+text-align: center;
+
+
+
+color: #FFFFFF;
+
+}
+
+.button2 { 
+
+/*position: absolute;*/
+width: 110px;
+margin: auto;
+height: 45px;
+/*left: 500px;
+top: 350px;*/
+
+background: #79D7D5;
+opacity: 0.9;
+border-radius: 7px;
+
+font-family: Gotham;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 18px;
+text-align: center;
+
+color: #FFFFFF;
+  
+}
+.button3 { 
+
+/*position: absolute;*/
+width: 110px;
+margin: auto;
+height: 45px;
+/*left: 300px;
+top: 460px;*/
+
+background: #79D7D5;
+opacity: 0.9;
+border-radius: 7px;
+
+font-family: Gotham;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 12px;
+text-align: center;
+
+color: #FFFFFF;
+  
+}
+
+.texte{
+margin-top: 300px;
+font-size: 12px;
+color: white;
+
+}
+.button4 { 
+
+/*position: absolute;*/
+width: 110px;
+margin: auto;
+height: 45px;
+/*left: 500px;
+top: 460px;*/
+
+background: #79D7D5;
+opacity: 0.9;
+border-radius: 7px;
+
+font-family: Gotham;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 12px;
+text-align: center;
+
+color: #FFFFFF;
+  
+}
+
+.center {
+
+  margin-top: 12px;
+  color: white
+}
+
+.budget{
+top: 12px;
+}
